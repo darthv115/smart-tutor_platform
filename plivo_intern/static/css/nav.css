@@ -17,12 +17,17 @@ body {
 }
 
 .imag {
-    background-image: url("img/bear.jpg");
+    /*background-image: url("img/bear.jpg");*/
     background-repeat: no-repeat;
     background-position: top;
 	opacity: 0.85;
 	position: fixed;
 }
+
+/*.sms{
+	width: 100px;
+	height: 50px;
+}*/
 
 .but{
 	border: none;
